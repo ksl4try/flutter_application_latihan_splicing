@@ -102,7 +102,7 @@ class _SliceBody extends StatelessWidget {
 
           // ── STATS (grid 2 kolom, placeholder) ───────────────────
           // Bagian judul seksi
-          const _SectionHeader('Statistics'),
+          const _SectionHeader('sembarang'),
           // Spasi kecil
           const SizedBox(height: 8),
           // Wrap untuk 2 kolom responsif
